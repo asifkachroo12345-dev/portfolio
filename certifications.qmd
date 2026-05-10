@@ -1,0 +1,61 @@
+---
+title: "Certifications & Micro-Applications"
+description: "My verified credentials and applied digital marketing coursework."
+format: html
+---
+
+## Verified Certifications
+
+::: {style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin-top: 2rem; margin-bottom: 4rem;"}
+
+::: {.glass-card}
+### Google Analytics 4 Certification
+**Issuer:** Google
+<br>
+Completed comprehensive training on GA4 setup, tracking, and insights generation.
+[View Certificate (PDF)](assets/Asif%20Kachroo%20GA4%20(1).pdf)
+:::
+
+::: {.glass-card}
+### Power BI Essential Training
+**Issuer:** LinkedIn Learning
+<br>
+Demonstrated ability to connect data sources, transform data, and build interactive Power BI dashboards.
+[View Certificate (PDF)](assets/CertificateOfCompletion_Power%20BI%20Essential%20Training%202024%20(1).pdf)
+:::
+
+::: {.glass-card}
+### Excel PivotTables in Depth
+**Issuer:** LinkedIn Learning
+<br>
+Advanced spreadsheet manipulation, dynamic data summaries, and pivot reporting.
+[View Certificate (PDF)](assets/CertificateOfCompletion_Excel%20PivotTables%20in%20Depth%20(1).pdf)
+:::
+
+:::
+
+## Digital Marketing Micro-Applications
+
+Throughout my coursework, I have completed practical applications in GA4 to prove hands-on mastery.
+
+::: {style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin-top: 2rem;"}
+
+::: {.glass-card}
+### GA4 201: Explorations & Deep Analysis
+Applied deeper analysis techniques using GA4 custom exploration reports.
+[View HTML Report](assets/GA4%20201%20Micro-Application%20%20Explorations%20(Deeper%20Analysis)%20(1).html)
+:::
+
+::: {.glass-card}
+### GA4 301: Integrations & Activation Plan
+Developed an activation plan mapping tracking implementations to business outcomes.
+[View HTML Report](assets/Part%204%20%20GA4%20301%20Micro-Application_%20Integrations%20&%20Activation%20Plan.html)
+:::
+
+::: {.glass-card}
+### Certification Reflection & Readiness Check
+A reflective essay on preparing for and passing the official GA4 exam.
+[View HTML Report](assets/GA4%20Certification%20Reflection%20and%20Readiness%20Check.html)
+:::
+
+:::

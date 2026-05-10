@@ -1,0 +1,18 @@
+---
+title: "Analytics Dashboard"
+format: html
+---
+
+## Live Data Analytics
+
+As part of my training in BigQuery and Looker Studio, I have learned to build interactive, live-updating dashboards that connect directly to cloud databases. This page serves as a placeholder for my Looker Studio dashboard embeds.
+
+::: {style="display: grid; grid-template-columns: 1fr; gap: 2rem; margin-top: 2rem;"}
+
+::: {.glass-card}
+### Global E-Commerce Performance
+This interactive dashboard visualizes sales trends, regional performance, and product profitability.
+*(Dashboard embed coming soon...)*
+:::
+
+:::

@@ -1,0 +1,29 @@
+---
+title: "About Me"
+format: html
+---
+
+## Hello, I'm Asif Kachroo!
+
+I am a highly motivated and detail-oriented **IT Support Technician** with hands-on experience supporting enterprise technology infrastructure across both laboratory and corporate environments. With a strong background in Tier 1, Tier 2, and Tier 3 technical support, I excel in fast-paced and highly regulated operational settings, ensuring that complex hardware, software, and networking issues are resolved with precision and efficiency.
+
+### Professional Journey
+
+My career has been built on a deep passion for infrastructure technologies, cybersecurity operations, and continuous technical growth. I currently work as an IT Support Technician at **Veracyte, Inc.** in San Diego, where I manage enterprise endpoints through Microsoft Intune and JAMF, administer identity and access management via Active Directory and Microsoft Entra ID, and provide specialized support for laboratory-integrated systems.
+
+Previously, as a Technical Support Engineer at **Axelliant**, I executed enterprise infrastructure deployments, including rack-and-stack installations, structured cabling, and Cisco Meraki network configurations. I have also conducted Ekahau wireless site surveys to optimize enterprise wireless performance.
+
+### Core Areas of Expertise
+
+I take full ownership of technical incidents, from initial diagnosis to successful resolution. My core competencies include:
+
+* **Identity & Access Management:** Administering Active Directory, Azure AD, and enforcing strict Role-Based Access Controls (RBAC).
+* **Endpoint Management:** Provisioning, configuring, and securing both Windows and macOS devices across large organizations using Intune and JAMF.
+* **Enterprise Networking:** Deploying Cisco Meraki infrastructure, configuring VLANs, and maintaining scalable wireless environments.
+* **Process Optimization & Automation:** Writing SQL queries for backend troubleshooting and supporting AI-driven automation projects to streamline repetitive IT tasks.
+
+### Education & Continuous Learning
+
+I am currently pursuing my **Bachelor’s Degree in Business Administration** with a concentration in **Computer Information Technology, Management & Operations** at California State Polytechnic University, Pomona (expected graduation in 2026). I hold a **Cisco Certified Network Associate (CCNA)** certification and am actively working towards my CompTIA A+ certification.
+
+Whether I am troubleshooting a complex network issue, onboarding new users, or optimizing IT workflows, my goal is always to deliver reliable, secure, and scalable solutions that drive seamless business continuity.

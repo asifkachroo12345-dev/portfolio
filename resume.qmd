@@ -1,0 +1,89 @@
+---
+title: "Resume"
+format: html
+toc: true
+---
+
+# ASIF KACHROO
+
+Los Angeles, California  
++1 (909) 569-7570 • [asifkachroo@hotmail.com](mailto:asifkachroo@hotmail.com)
+
+---
+
+## PROFESSIONAL SUMMARY
+
+Highly motivated and detail-oriented IT Support Technician with hands-on experience supporting enterprise technology infrastructure across both laboratory and corporate environments. Demonstrated expertise in delivering comprehensive Tier 1, Tier 2, and Tier 3 technical support while maintaining exceptional service standards in fast-paced and highly regulated operational settings. Proven ability to troubleshoot, diagnose, and resolve complex hardware, software, networking, and endpoint management issues with precision, efficiency, and professionalism.
+
+Experienced in supporting large-scale enterprise systems, managing endpoint deployments, maintaining identity and access management processes, and collaborating cross-functionally with technical and operational teams to ensure seamless day-to-day business continuity. Strong background working with Microsoft enterprise technologies, cloud identity platforms, endpoint management solutions, and networking infrastructure.
+
+Recognized for maintaining composure under pressure, taking full ownership of technical incidents from initial diagnosis through successful resolution, and consistently delivering reliable, secure, and scalable support solutions. Possesses a strong passion for infrastructure technologies, cybersecurity operations, artificial intelligence-driven automation, and continuous professional growth within enterprise IT and security environments.
+
+---
+
+## PROFESSIONAL EXPERIENCE
+
+### IT Support Technician
+**Veracyte, Inc.** — Full-Time  
+*March 2025 – Present | San Diego, California, United States | On-site*
+
+* Deliver comprehensive Tier 1, Tier 2, and Tier 3 technical support across laboratory and corporate environments, ensuring rapid resolution of hardware, software, operating system, network, and application-related incidents.
+* Troubleshoot and resolve complex endpoint, infrastructure, and user-access issues while maintaining high service availability and minimizing operational downtime.
+* Administer user identity and access management processes within Active Directory and Microsoft Entra ID environments, including onboarding, offboarding, account provisioning, permission management, and role-based access control enforcement.
+* Configure, deploy, and maintain enterprise Windows endpoints through Microsoft Intune while ensuring device compliance, security policy enforcement, software deployment consistency, and adherence to organizational IT standards.
+* Manage and support macOS enterprise environments using JAMF, including device provisioning, configuration profile deployment, endpoint compliance management, and lifecycle administration.
+* Provide technical support for specialized laboratory-integrated systems and diagnostic workstations operating within highly sensitive and regulated healthcare technology environments.
+* Assist in the maintenance and support of enterprise physical security infrastructure, including Verkada systems and associated monitoring technologies.
+* Execute basic SQL queries to assist with backend troubleshooting, application support, data validation, and operational issue resolution.
+* Collaborate with internal technical teams, engineers, and operational stakeholders to identify process inefficiencies and implement sustainable technical improvements.
+* Contribute to the development and maintenance of standard operating procedures, technical documentation, troubleshooting guides, and workflow optimization initiatives.
+* Support emerging artificial intelligence-driven automation projects designed to improve operational efficiency, streamline repetitive tasks, and enhance overall IT service delivery.
+* Maintain a strong customer-focused approach while communicating technical concepts clearly and effectively to both technical and non-technical users.
+
+### Technical Support Engineer
+**Axelliant** — Contract  
+*October 2023 – March 2025 | Torrance, California, United States | Hybrid*
+
+* Supported enterprise infrastructure deployments and technical operations across multiple client environments, ensuring reliable implementation of networking and systems infrastructure.
+* Performed rack-and-stack installations, server deployments, structured cabling, and server room buildouts in accordance with enterprise infrastructure standards and operational best practices.
+* Assisted with the configuration and deployment of Cisco Meraki networking infrastructure, including VLAN configuration, trunk and access port assignments, uplink management, and switch stack organization.
+* Participated in wireless infrastructure projects by conducting Ekahau wireless site surveys and supporting enterprise wireless optimization initiatives.
+* Assisted with network upgrade projects, infrastructure migrations, and deployment activities designed to improve performance, scalability, and operational stability across client environments.
+* Collaborated with senior engineers and project teams to troubleshoot networking issues, validate configurations, and ensure successful project execution.
+* Maintained detailed asset tracking records, deployment documentation, infrastructure inventories, and implementation reports to support operational visibility and compliance.
+* Delivered professional technical support while working in dynamic client-facing environments requiring strong communication, adaptability, and attention to detail.
+
+---
+
+## EDUCATION
+
+### California State Polytechnic University, Pomona
+**Bachelor’s Degree in Business Administration**  
+*Concentration: Computer Information Technology, Management & Operations*  
+*Expected Graduation: 2026*
+
+Relevant focus areas include enterprise systems, information technology operations, business process management, systems analysis, networking fundamentals, and technology-driven operational strategy.
+
+---
+
+## CERTIFICATIONS
+
+* **Cisco Systems:** Certified Network Associate (CCNA)
+* **CompTIA:** A+ Certification — In Progress
+
+---
+
+## TECHNICAL SKILLS
+
+**Identity & Access Management:** Active Directory, Microsoft Entra ID (Azure Active Directory), User Provisioning & Access Control, Role-Based Access Control (RBAC)  
+**Endpoint Management & Administration:** Microsoft Intune, JAMF, Windows Administration, macOS Administration, Endpoint Lifecycle Management, Device Compliance & Security Enforcement  
+**Networking & Infrastructure:** Cisco Meraki, VLAN Configuration, Switching & Network Deployments, Structured Cabling, 802.1X Authentication, Wireless Infrastructure Support, Ekahau Wireless Site Surveys  
+**IT Operations & Support:** Enterprise Technical Support, Incident Troubleshooting & Resolution, IT Asset Lifecycle Management, Freshservice Ticketing System, Technical Documentation, SOP Development  
+**Security & Laboratory Technologies:** Verkada Security Infrastructure, Laboratory Systems Support, Diagnostic Workstation Support, Zebra Browser Print, Hamilton Liquid Handlers  
+**Additional Technical Skills:** Basic SQL Querying, Backend Troubleshooting, Workflow Optimization, AI-Driven Automation Initiatives, Cross-Functional Technical Collaboration  
+
+---
+
+<div style="margin-top: 3rem; text-align: center;">
+  <a href="assets/Asif Resume.pdf" class="btn btn-primary" target="_blank" style="font-size: 1.1rem; padding: 15px 40px !important;">Download Resume (PDF)</a>
+</div>

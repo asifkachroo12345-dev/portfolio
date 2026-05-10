@@ -1,0 +1,27 @@
+---
+title: "Coursework"
+format: html
+---
+
+## Academic Coursework
+
+Through my academic journey, I have completed a rigorous set of courses designed to build a strong foundation in both technical data skills and strategic business application.
+
+::: {style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin-top: 2rem;"}
+
+::: {.glass-card}
+### Data Wrangling & Visualization
+Focused on the R Tidyverse ecosystem, learning to clean, reshape, and visualize complex datasets using `dplyr`, `tidyr`, and `ggplot2`.
+:::
+
+::: {.glass-card}
+### Functional Programming in R
+Mastered the use of `purrr` to iterate over lists and datasets cleanly and efficiently, ensuring robust and scalable code.
+:::
+
+::: {.glass-card}
+### Digital Analytics Strategy
+Explored the integration of Google Analytics 4, BigQuery, and Looker Studio to track user behavior, store large datasets, and visualize insights.
+:::
+
+:::

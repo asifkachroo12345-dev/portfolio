@@ -1,0 +1,61 @@
+---
+title: ""
+format:
+  html:
+    page-layout: custom
+toc: false
+---
+
+::: {.hero-container}
+::: {.hero-text}
+# Hello, I'm Asif Kachroo
+
+I am a highly motivated IT Support Technician specializing in enterprise infrastructure, endpoint management, and identity access control. With hands-on experience supporting both laboratory and corporate environments, I transform complex technical challenges into secure, scalable, and seamless solutions.
+
+<div style="display: flex; gap: 1rem; margin-top: 2rem;">
+  <a href="resume.qmd" class="btn btn-primary">View Resume</a>
+  <a href="certifications.qmd" class="btn btn-primary" style="background-color: transparent !important; border: 2px solid #7A82AB !important; color: #2E1F27 !important;">Certifications</a>
+</div>
+:::
+
+::: {.hero-photo}
+![](images/headshot.jpeg)
+:::
+:::
+
+::: {style="max-width: 900px; margin: 0 auto; padding: 0 20px; text-align: center;"}
+## Core Competencies {style="margin-bottom: 3rem; color: #2E1F27; font-size: 2.2rem;"}
+  
+<ul style="list-style: none; padding-left: 0; margin-bottom: 5rem;">
+<li style="margin-bottom: 3rem; display: flex; flex-direction: column; align-items: center; gap: 10px;">
+<i class="bi bi-laptop" style="font-size: 2.5rem; color: #7A82AB; line-height: 1;"></i>
+<div>
+<h3 style="margin: 0 0 0.5rem 0; font-size: 1.5rem; color: #2E1F27;">Endpoint Management</h3>
+<p style="margin: 0; color: #555; line-height: 1.6; font-size: 1.15rem; max-width: 700px; margin: 0 auto;">Administering enterprise environments through Microsoft Intune and JAMF. Proficient in device provisioning, configuration profiles, and enforcing security compliance across Windows and macOS systems.</p>
+</div>
+</li>
+  
+<li style="margin-bottom: 3rem; display: flex; flex-direction: column; align-items: center; gap: 10px;">
+<i class="bi bi-shield-lock" style="font-size: 2.5rem; color: #7A82AB; line-height: 1;"></i>
+<div>
+<h3 style="margin: 0 0 0.5rem 0; font-size: 1.5rem; color: #2E1F27;">Identity & Access</h3>
+<p style="margin: 0; color: #555; line-height: 1.6; font-size: 1.15rem; max-width: 700px; margin: 0 auto;">Expertise in Active Directory and Microsoft Entra ID (Azure AD), managing user provisioning, RBAC, and enforcing strict identity access controls in highly regulated environments.</p>
+</div>
+</li>
+
+<li style="margin-bottom: 3rem; display: flex; flex-direction: column; align-items: center; gap: 10px;">
+<i class="bi bi-hdd-network" style="font-size: 2.5rem; color: #7A82AB; line-height: 1;"></i>
+<div>
+<h3 style="margin: 0 0 0.5rem 0; font-size: 1.5rem; color: #2E1F27;">Enterprise Networking</h3>
+<p style="margin: 0; color: #555; line-height: 1.6; font-size: 1.15rem; max-width: 700px; margin: 0 auto;">Configuring and supporting Cisco Meraki infrastructure, deploying VLANs, structuring cabling, and executing Ekahau wireless site surveys to optimize enterprise wireless networks.</p>
+</div>
+</li>
+</ul>
+
+## Connect with Me {style="margin-bottom: 2rem; color: #2E1F27; font-size: 2.2rem;"}
+
+<div style="display: flex; justify-content: center; gap: 1rem; margin-bottom: 4rem;">
+  <a href="https://github.com/asifkachroo12345-dev" target="_blank" class="btn btn-primary" style="background-color: transparent !important; border: 2px solid #7A82AB !important; color: #2E1F27 !important;"><i class="bi bi-github" style="margin-right: 8px;"></i> GitHub</a>
+  <a href="https://www.linkedin.com/in/asif-kachroo-5b435b238/" target="_blank" class="btn btn-primary" style="background-color: transparent !important; border: 2px solid #7A82AB !important; color: #2E1F27 !important;"><i class="bi bi-linkedin" style="margin-right: 8px;"></i> LinkedIn</a>
+</div>
+:::

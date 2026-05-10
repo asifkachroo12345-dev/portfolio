@@ -1,0 +1,44 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Asif Kachroo"
+  open-graph: true
+  navbar:
+    title: "Asif Kachroo"
+    pinned: true
+    background: "#2E1F27"
+    foreground: "#ffffff"
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Coursework"
+        href: coursework.qmd
+      - text: "Data Science"
+        href: data-science.qmd
+      - text: "Certifications"
+        href: certifications.qmd
+      - text: "Analytics"
+        href: analytics.qmd
+      - text: "Resume"
+        href: resume.qmd
+    right:
+      - icon: github
+        href: https://github.com/asifkachroo12345-dev
+      - icon: linkedin
+        href: https://www.linkedin.com/in/asif-kachroo-5b435b238/
+      - icon: envelope
+        href: mailto:asifkachroo@hotmail.com
+
+format:
+  html:
+    theme: theme.scss
+    toc: true
+    page-layout: full
+    smooth-scroll: true
+
+execute:
+  freeze: auto

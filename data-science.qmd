@@ -1,0 +1,47 @@
+---
+title: "Data Science Projects"
+description: "A showcase of my R programming, data wrangling, and visualization work."
+format: html
+---
+
+Here is a collection of my recent data science projects and reflection essays, highlighting my expertise in the R ecosystem.
+
+::: {style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin-top: 2rem;"}
+
+::: {.glass-card}
+### Intro to Data Science in R
+Exploration of foundational data structures and functional programming paradigms in R.
+[View Project (HTML)](assets/Kachroo,%20Asif-M02-Intro-Data-Science-in-R.html)
+:::
+
+::: {.glass-card}
+### Data Visualization Principles
+Applying `ggplot2` to create clear, aesthetic, and impactful visualizations from raw datasets.
+[View Application (HTML)](assets/Kachroo,Asif%20M03-1-Data_Viz_Principle-3%20(2).html)
+:::
+
+::: {.glass-card}
+### Advanced Data Visualization
+A deep dive into advanced aesthetic mapping and chart layering techniques for complex data.
+[View Reflection (HTML)](assets/Kachroo,Asif-M04-Reflection%20Essay-Advanced%20Data-Viz.html)
+:::
+
+::: {.glass-card}
+### Data Wrangling (M06)
+Transforming and reshaping unstructured data using the `dplyr` and `tidyr` packages.
+[View Project (HTML)](assets/M06.html)
+:::
+
+::: {.glass-card}
+### Intro to Functional Programming
+Iterating over lists and datasets cleanly and efficiently using `purrr`.
+[View Application (HTML)](assets/M11-2_%20Introduction%20to%20Functional%20Programming%20in%20R.html)
+:::
+
+::: {.glass-card}
+### Advanced R Programming
+Final reflection essay outlining my journey mastering functional programming, error handling, and robust data structures in R.
+[View Reflection (HTML)](assets/M12%20Reflection%20Essay%20-%20Advanced%20R%20Programming.html)
+:::
+
+:::
