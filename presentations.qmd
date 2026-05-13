@@ -1,0 +1,22 @@
+---
+title: "Presentations"
+subtitle: "Interactive Slide Decks & Revealjs Presentations"
+---
+
+These slide decks were developed using Quarto and Revealjs, allowing for dynamic, code-driven storytelling and interactive data visualizations.
+
+```{=html}
+<div class="features-grid" style="margin-top:2rem;">
+
+  <div class="feature-card">
+    <div class="feature-icon-box">
+      <i class="bi bi-easel"></i>
+    </div>
+    <h3>Advanced R Programming</h3>
+    <p><strong>Module 12 Reflection</strong><br>
+    Insights into advanced programming concepts, functional programming, and efficient R code.</p>
+    <a href="rendered/m12-reflection.html" class="btn-hero-primary" target="_blank">View Slides</a>
+  </div>
+
+</div>
+```

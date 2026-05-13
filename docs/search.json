@@ -42,11 +42,60 @@
     "text": "Identity & Access Management: Active Directory, Microsoft Entra ID (Azure Active Directory), User Provisioning & Access Control, Role-Based Access Control (RBAC)\nEndpoint Management & Administration: Microsoft Intune, JAMF, Windows Administration, macOS Administration, Endpoint Lifecycle Management, Device Compliance & Security Enforcement\nNetworking & Infrastructure: Cisco Meraki, VLAN Configuration, Switching & Network Deployments, Structured Cabling, 802.1X Authentication, Wireless Infrastructure Support, Ekahau Wireless Site Surveys\nIT Operations & Support: Enterprise Technical Support, Incident Troubleshooting & Resolution, IT Asset Lifecycle Management, Freshservice Ticketing System, Technical Documentation, SOP Development\nSecurity & Laboratory Technologies: Verkada Security Infrastructure, Laboratory Systems Support, Diagnostic Workstation Support, Zebra Browser Print, Hamilton Liquid Handlers\nAdditional Technical Skills: Basic SQL Querying, Backend Troubleshooting, Workflow Optimization, AI-Driven Automation Initiatives, Cross-Functional Technical Collaboration\n\n\nDownload Resume (PDF)"
   },
   {
-    "objectID": "data-science.html",
-    "href": "data-science.html",
-    "title": "Data Science Projects",
+    "objectID": "index.html#core-competencies",
+    "href": "index.html#core-competencies",
+    "title": "Asif Kachroo",
+    "section": "Core Competencies",
+    "text": "Core Competencies\n\n\n\n\n\nEndpoint Management\n\n\nAdministering enterprise environments through Microsoft Intune and JAMF. Proficient in device provisioning, configuration profiles, and enforcing security compliance across Windows and macOS systems.\n\n\n\n\n\n\n\nIdentity & Access\n\n\nExpertise in Active Directory and Microsoft Entra ID (Azure AD), managing user provisioning, RBAC, and enforcing strict identity access controls in highly regulated environments.\n\n\n\n\n\n\n\nEnterprise Networking\n\n\nConfiguring and supporting Cisco Meraki infrastructure, deploying VLANs, structuring cabling, and executing Ekahau wireless site surveys to optimize enterprise wireless networks."
+  },
+  {
+    "objectID": "index.html#connect-with-me",
+    "href": "index.html#connect-with-me",
+    "title": "Asif Kachroo",
+    "section": "Connect with Me",
+    "text": "Connect with Me\n\n GitHub  LinkedIn"
+  },
+  {
+    "objectID": "coursework.html",
+    "href": "coursework.html",
+    "title": "Coursework",
     "section": "",
-    "text": "Here is a collection of my recent data science projects and reflection essays, highlighting my expertise in the R ecosystem.\n\n\nIntro to Data Science in R\nExploration of foundational data structures and functional programming paradigms in R. View Project (HTML)\n\n\nData Visualization Principles\nApplying ggplot2 to create clear, aesthetic, and impactful visualizations from raw datasets. View Application (HTML)\n\n\nAdvanced Data Visualization\nA deep dive into advanced aesthetic mapping and chart layering techniques for complex data. View Reflection (HTML)\n\n\nData Wrangling (M06)\nTransforming and reshaping unstructured data using the dplyr and tidyr packages. View Project (HTML)\n\n\nIntro to Functional Programming\nIterating over lists and datasets cleanly and efficiently using purrr. View Application (HTML)\n\n\nAdvanced R Programming\nFinal reflection essay outlining my journey mastering functional programming, error handling, and robust data structures in R. View Reflection (HTML)"
+    "text": "Through my academic journey, I have completed a rigorous set of courses designed to build a strong foundation in both technical data skills and strategic business application.\n\n\n\nFocused on the R Tidyverse ecosystem, learning to clean, reshape, and visualize complex datasets using dplyr, tidyr, and ggplot2.\n\n\n\nMastered the use of purrr to iterate over lists and datasets cleanly and efficiently, ensuring robust and scalable code.\n\n\n\nExplored the integration of Google Analytics 4, BigQuery, and Looker Studio to track user behavior, store large datasets, and visualize insights."
+  },
+  {
+    "objectID": "coursework.html#academic-coursework",
+    "href": "coursework.html#academic-coursework",
+    "title": "Coursework",
+    "section": "",
+    "text": "Through my academic journey, I have completed a rigorous set of courses designed to build a strong foundation in both technical data skills and strategic business application.\n\n\n\nFocused on the R Tidyverse ecosystem, learning to clean, reshape, and visualize complex datasets using dplyr, tidyr, and ggplot2.\n\n\n\nMastered the use of purrr to iterate over lists and datasets cleanly and efficiently, ensuring robust and scalable code.\n\n\n\nExplored the integration of Google Analytics 4, BigQuery, and Looker Studio to track user behavior, store large datasets, and visualize insights."
+  },
+  {
+    "objectID": "analytics.html",
+    "href": "analytics.html",
+    "title": "Analytics Dashboard",
+    "section": "",
+    "text": "As part of my training in BigQuery and Looker Studio, I have learned to build interactive, live-updating dashboards that connect directly to cloud databases. This page serves as a placeholder for my Looker Studio dashboard embeds.\n\n\n\nThis interactive dashboard visualizes sales trends, regional performance, and product profitability. (Dashboard embed coming soon…)"
+  },
+  {
+    "objectID": "analytics.html#live-data-analytics",
+    "href": "analytics.html#live-data-analytics",
+    "title": "Analytics Dashboard",
+    "section": "",
+    "text": "As part of my training in BigQuery and Looker Studio, I have learned to build interactive, live-updating dashboards that connect directly to cloud databases. This page serves as a placeholder for my Looker Studio dashboard embeds.\n\n\n\nThis interactive dashboard visualizes sales trends, regional performance, and product profitability. (Dashboard embed coming soon…)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a highly motivated and detail-oriented IT Support Technician with hands-on experience supporting enterprise technology infrastructure across both laboratory and corporate environments. With a strong background in Tier 1, Tier 2, and Tier 3 technical support, I excel in fast-paced and highly regulated operational settings, ensuring that complex hardware, software, and networking issues are resolved with precision and efficiency.\n\n\nMy career has been built on a deep passion for infrastructure technologies, cybersecurity operations, and continuous technical growth. I currently work as an IT Support Technician at Veracyte, Inc. in San Diego, where I manage enterprise endpoints through Microsoft Intune and JAMF, administer identity and access management via Active Directory and Microsoft Entra ID, and provide specialized support for laboratory-integrated systems.\nPreviously, as a Technical Support Engineer at Axelliant, I executed enterprise infrastructure deployments, including rack-and-stack installations, structured cabling, and Cisco Meraki network configurations. I have also conducted Ekahau wireless site surveys to optimize enterprise wireless performance.\n\n\n\nI take full ownership of technical incidents, from initial diagnosis to successful resolution. My core competencies include:\n\nIdentity & Access Management: Administering Active Directory, Azure AD, and enforcing strict Role-Based Access Controls (RBAC).\nEndpoint Management: Provisioning, configuring, and securing both Windows and macOS devices across large organizations using Intune and JAMF.\nEnterprise Networking: Deploying Cisco Meraki infrastructure, configuring VLANs, and maintaining scalable wireless environments.\nProcess Optimization & Automation: Writing SQL queries for backend troubleshooting and supporting AI-driven automation projects to streamline repetitive IT tasks.\n\n\n\n\nI am currently pursuing my Bachelor’s Degree in Business Administration with a concentration in Computer Information Technology, Management & Operations at California State Polytechnic University, Pomona (expected graduation in 2026). I hold a Cisco Certified Network Associate (CCNA) certification and am actively working towards my CompTIA A+ certification.\nWhether I am troubleshooting a complex network issue, onboarding new users, or optimizing IT workflows, my goal is always to deliver reliable, secure, and scalable solutions that drive seamless business continuity."
+  },
+  {
+    "objectID": "about.html#hello-im-asif-kachroo",
+    "href": "about.html#hello-im-asif-kachroo",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a highly motivated and detail-oriented IT Support Technician with hands-on experience supporting enterprise technology infrastructure across both laboratory and corporate environments. With a strong background in Tier 1, Tier 2, and Tier 3 technical support, I excel in fast-paced and highly regulated operational settings, ensuring that complex hardware, software, and networking issues are resolved with precision and efficiency.\n\n\nMy career has been built on a deep passion for infrastructure technologies, cybersecurity operations, and continuous technical growth. I currently work as an IT Support Technician at Veracyte, Inc. in San Diego, where I manage enterprise endpoints through Microsoft Intune and JAMF, administer identity and access management via Active Directory and Microsoft Entra ID, and provide specialized support for laboratory-integrated systems.\nPreviously, as a Technical Support Engineer at Axelliant, I executed enterprise infrastructure deployments, including rack-and-stack installations, structured cabling, and Cisco Meraki network configurations. I have also conducted Ekahau wireless site surveys to optimize enterprise wireless performance.\n\n\n\nI take full ownership of technical incidents, from initial diagnosis to successful resolution. My core competencies include:\n\nIdentity & Access Management: Administering Active Directory, Azure AD, and enforcing strict Role-Based Access Controls (RBAC).\nEndpoint Management: Provisioning, configuring, and securing both Windows and macOS devices across large organizations using Intune and JAMF.\nEnterprise Networking: Deploying Cisco Meraki infrastructure, configuring VLANs, and maintaining scalable wireless environments.\nProcess Optimization & Automation: Writing SQL queries for backend troubleshooting and supporting AI-driven automation projects to streamline repetitive IT tasks.\n\n\n\n\nI am currently pursuing my Bachelor’s Degree in Business Administration with a concentration in Computer Information Technology, Management & Operations at California State Polytechnic University, Pomona (expected graduation in 2026). I hold a Cisco Certified Network Associate (CCNA) certification and am actively working towards my CompTIA A+ certification.\nWhether I am troubleshooting a complex network issue, onboarding new users, or optimizing IT workflows, my goal is always to deliver reliable, secure, and scalable solutions that drive seamless business continuity."
   },
   {
     "objectID": "certifications.html",
@@ -70,59 +119,17 @@
     "text": "Digital Marketing Micro-Applications\nThroughout my coursework, I have completed practical applications in GA4 to prove hands-on mastery.\n\n\nGA4 201: Explorations & Deep Analysis\nApplied deeper analysis techniques using GA4 custom exploration reports. View HTML Report\n\n\nGA4 301: Integrations & Activation Plan\nDeveloped an activation plan mapping tracking implementations to business outcomes. View HTML Report\n\n\nCertification Reflection & Readiness Check\nA reflective essay on preparing for and passing the official GA4 exam. View HTML Report"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
+    "objectID": "data-science.html",
+    "href": "data-science.html",
+    "title": "Data Science Projects",
     "section": "",
-    "text": "I am a highly motivated and detail-oriented IT Support Technician with hands-on experience supporting enterprise technology infrastructure across both laboratory and corporate environments. With a strong background in Tier 1, Tier 2, and Tier 3 technical support, I excel in fast-paced and highly regulated operational settings, ensuring that complex hardware, software, and networking issues are resolved with precision and efficiency.\n\n\nMy career has been built on a deep passion for infrastructure technologies, cybersecurity operations, and continuous technical growth. I currently work as an IT Support Technician at Veracyte, Inc. in San Diego, where I manage enterprise endpoints through Microsoft Intune and JAMF, administer identity and access management via Active Directory and Microsoft Entra ID, and provide specialized support for laboratory-integrated systems.\nPreviously, as a Technical Support Engineer at Axelliant, I executed enterprise infrastructure deployments, including rack-and-stack installations, structured cabling, and Cisco Meraki network configurations. I have also conducted Ekahau wireless site surveys to optimize enterprise wireless performance.\n\n\n\nI take full ownership of technical incidents, from initial diagnosis to successful resolution. My core competencies include:\n\nIdentity & Access Management: Administering Active Directory, Azure AD, and enforcing strict Role-Based Access Controls (RBAC).\nEndpoint Management: Provisioning, configuring, and securing both Windows and macOS devices across large organizations using Intune and JAMF.\nEnterprise Networking: Deploying Cisco Meraki infrastructure, configuring VLANs, and maintaining scalable wireless environments.\nProcess Optimization & Automation: Writing SQL queries for backend troubleshooting and supporting AI-driven automation projects to streamline repetitive IT tasks.\n\n\n\n\nI am currently pursuing my Bachelor’s Degree in Business Administration with a concentration in Computer Information Technology, Management & Operations at California State Polytechnic University, Pomona (expected graduation in 2026). I hold a Cisco Certified Network Associate (CCNA) certification and am actively working towards my CompTIA A+ certification.\nWhether I am troubleshooting a complex network issue, onboarding new users, or optimizing IT workflows, my goal is always to deliver reliable, secure, and scalable solutions that drive seamless business continuity."
+    "text": "Here is a collection of my recent data science projects and reflection essays, highlighting my expertise in the R ecosystem.\n\n\nIntro to Data Science in R\nExploration of foundational data structures and functional programming paradigms in R. View Project (HTML)\n\n\nData Visualization Principles\nApplying ggplot2 to create clear, aesthetic, and impactful visualizations from raw datasets. View Application (HTML)\n\n\nAdvanced Data Visualization\nA deep dive into advanced aesthetic mapping and chart layering techniques for complex data. View Reflection (HTML)\n\n\nData Wrangling (M06)\nTransforming and reshaping unstructured data using the dplyr and tidyr packages. View Project (HTML)\n\n\nIntro to Functional Programming\nIterating over lists and datasets cleanly and efficiently using purrr. View Application (HTML)\n\n\nAdvanced R Programming\nFinal reflection essay outlining my journey mastering functional programming, error handling, and robust data structures in R. View Reflection (HTML)"
   },
   {
-    "objectID": "about.html#hello-im-asif-kachroo",
-    "href": "about.html#hello-im-asif-kachroo",
-    "title": "About Me",
+    "objectID": "presentations.html",
+    "href": "presentations.html",
+    "title": "Presentations",
     "section": "",
-    "text": "I am a highly motivated and detail-oriented IT Support Technician with hands-on experience supporting enterprise technology infrastructure across both laboratory and corporate environments. With a strong background in Tier 1, Tier 2, and Tier 3 technical support, I excel in fast-paced and highly regulated operational settings, ensuring that complex hardware, software, and networking issues are resolved with precision and efficiency.\n\n\nMy career has been built on a deep passion for infrastructure technologies, cybersecurity operations, and continuous technical growth. I currently work as an IT Support Technician at Veracyte, Inc. in San Diego, where I manage enterprise endpoints through Microsoft Intune and JAMF, administer identity and access management via Active Directory and Microsoft Entra ID, and provide specialized support for laboratory-integrated systems.\nPreviously, as a Technical Support Engineer at Axelliant, I executed enterprise infrastructure deployments, including rack-and-stack installations, structured cabling, and Cisco Meraki network configurations. I have also conducted Ekahau wireless site surveys to optimize enterprise wireless performance.\n\n\n\nI take full ownership of technical incidents, from initial diagnosis to successful resolution. My core competencies include:\n\nIdentity & Access Management: Administering Active Directory, Azure AD, and enforcing strict Role-Based Access Controls (RBAC).\nEndpoint Management: Provisioning, configuring, and securing both Windows and macOS devices across large organizations using Intune and JAMF.\nEnterprise Networking: Deploying Cisco Meraki infrastructure, configuring VLANs, and maintaining scalable wireless environments.\nProcess Optimization & Automation: Writing SQL queries for backend troubleshooting and supporting AI-driven automation projects to streamline repetitive IT tasks.\n\n\n\n\nI am currently pursuing my Bachelor’s Degree in Business Administration with a concentration in Computer Information Technology, Management & Operations at California State Polytechnic University, Pomona (expected graduation in 2026). I hold a Cisco Certified Network Associate (CCNA) certification and am actively working towards my CompTIA A+ certification.\nWhether I am troubleshooting a complex network issue, onboarding new users, or optimizing IT workflows, my goal is always to deliver reliable, secure, and scalable solutions that drive seamless business continuity."
-  },
-  {
-    "objectID": "analytics.html",
-    "href": "analytics.html",
-    "title": "Analytics Dashboard",
-    "section": "",
-    "text": "As part of my training in BigQuery and Looker Studio, I have learned to build interactive, live-updating dashboards that connect directly to cloud databases. This page serves as a placeholder for my Looker Studio dashboard embeds.\n\n\n\nThis interactive dashboard visualizes sales trends, regional performance, and product profitability. (Dashboard embed coming soon…)"
-  },
-  {
-    "objectID": "analytics.html#live-data-analytics",
-    "href": "analytics.html#live-data-analytics",
-    "title": "Analytics Dashboard",
-    "section": "",
-    "text": "As part of my training in BigQuery and Looker Studio, I have learned to build interactive, live-updating dashboards that connect directly to cloud databases. This page serves as a placeholder for my Looker Studio dashboard embeds.\n\n\n\nThis interactive dashboard visualizes sales trends, regional performance, and product profitability. (Dashboard embed coming soon…)"
-  },
-  {
-    "objectID": "coursework.html",
-    "href": "coursework.html",
-    "title": "Coursework",
-    "section": "",
-    "text": "Through my academic journey, I have completed a rigorous set of courses designed to build a strong foundation in both technical data skills and strategic business application.\n\n\n\nFocused on the R Tidyverse ecosystem, learning to clean, reshape, and visualize complex datasets using dplyr, tidyr, and ggplot2.\n\n\n\nMastered the use of purrr to iterate over lists and datasets cleanly and efficiently, ensuring robust and scalable code.\n\n\n\nExplored the integration of Google Analytics 4, BigQuery, and Looker Studio to track user behavior, store large datasets, and visualize insights."
-  },
-  {
-    "objectID": "coursework.html#academic-coursework",
-    "href": "coursework.html#academic-coursework",
-    "title": "Coursework",
-    "section": "",
-    "text": "Through my academic journey, I have completed a rigorous set of courses designed to build a strong foundation in both technical data skills and strategic business application.\n\n\n\nFocused on the R Tidyverse ecosystem, learning to clean, reshape, and visualize complex datasets using dplyr, tidyr, and ggplot2.\n\n\n\nMastered the use of purrr to iterate over lists and datasets cleanly and efficiently, ensuring robust and scalable code.\n\n\n\nExplored the integration of Google Analytics 4, BigQuery, and Looker Studio to track user behavior, store large datasets, and visualize insights."
-  },
-  {
-    "objectID": "index.html#core-competencies",
-    "href": "index.html#core-competencies",
-    "title": "Asif Kachroo",
-    "section": "Core Competencies",
-    "text": "Core Competencies\n\n\n\n\n\nEndpoint Management\n\n\nAdministering enterprise environments through Microsoft Intune and JAMF. Proficient in device provisioning, configuration profiles, and enforcing security compliance across Windows and macOS systems.\n\n\n\n\n\n\n\nIdentity & Access\n\n\nExpertise in Active Directory and Microsoft Entra ID (Azure AD), managing user provisioning, RBAC, and enforcing strict identity access controls in highly regulated environments.\n\n\n\n\n\n\n\nEnterprise Networking\n\n\nConfiguring and supporting Cisco Meraki infrastructure, deploying VLANs, structuring cabling, and executing Ekahau wireless site surveys to optimize enterprise wireless networks."
-  },
-  {
-    "objectID": "index.html#connect-with-me",
-    "href": "index.html#connect-with-me",
-    "title": "Asif Kachroo",
-    "section": "Connect with Me",
-    "text": "Connect with Me\n\n GitHub  LinkedIn"
+    "text": "These slide decks were developed using Quarto and Revealjs, allowing for dynamic, code-driven storytelling and interactive data visualizations.\n\n\n  \n    \n      \n    \n    Advanced R Programming\n    Module 12 Reflection\n    Insights into advanced programming concepts, functional programming, and efficient R code.\n    View Slides"
   }
 ]

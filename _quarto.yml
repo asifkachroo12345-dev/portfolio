@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - "rendered/**"
 
 website:
   title: "Asif Kachroo"
@@ -23,6 +25,8 @@ website:
         href: certifications.qmd
       - text: "Analytics"
         href: analytics.qmd
+      - text: "Revealjs Presentations"
+        href: presentations.qmd
       - text: "Resume"
         href: resume.qmd
     right:
